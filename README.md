@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="banner.png" alt="Ange-Morija KOUAMENAN – Geospatial, AI & BIM Engineer" />
+  <img src="banner.jpeg" alt="Ange-Morija KOUAMENAN – Geospatial, AI & BIM Engineer" />
 </p>
 
 # 👋 Hi, I'm Ange-Morija KOUAMENAN
