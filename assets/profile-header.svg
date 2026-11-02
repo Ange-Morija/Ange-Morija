@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ange-Morija KOUAMENAN</title><desc id="desc">Geomatics, BIM and Digital Twins. Connecting the physical world to digital intelligence.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1525"/><stop offset="1" stop-color="#182d44"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8caac4" stroke-opacity=".09"/></pattern><linearGradient id="gold"><stop stop-color="#DAAB3A"/><stop offset="1" stop-color="#EEE6D8"/></linearGradient></defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<path d="M850 250v-90l80-45 80 45v90l-80 45z M850 160l80 45 80-45 M930 205v90 M1010 250l70-40v-90l-80-45-70 40" fill="none" stroke="#DAAB3A" stroke-width="2" opacity=".7"/>
+<g fill="#DAAB3A"><circle cx="850" cy="160" r="5"/><circle cx="930" cy="205" r="5"/><circle cx="1010" cy="250" r="5"/><circle cx="1080" cy="120" r="5"/></g>
+<rect x="56" y="55" width="44" height="4" rx="2" fill="#DAAB3A"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="56" y="100" fill="#DAAB3A" font-size="14" letter-spacing="4">ENGINEERING · DATA · BUILT ENVIRONMENT</text>
+<text x="53" y="166" fill="#f4f1eb" font-size="45" font-weight="700">Ange-Morija</text><text x="55" y="212" fill="#f4f1eb" font-size="36" font-weight="300" letter-spacing="5">KOUAMENAN</text>
+<text x="56" y="259" fill="#b8cada" font-size="20">Geomatics · BIM · Digital Twins · Smart Infrastructure</text>
+<text x="56" y="313" fill="#DAAB3A" font-size="14" letter-spacing="2">FROM PHYSICAL REALITY TO DIGITAL INTELLIGENCE</text></g></svg>
