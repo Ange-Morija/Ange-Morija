@@ -14,22 +14,35 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> · <a href="#featured-projects">Projects</a> · <a href="#toolbox">Toolbox</a> · <a href="#currently-exploring">Learning</a> · <a href="#github-activity">Activity</a> · <a href="#lets-connect">Contact</a>
+  <a href="#about-me">About</a> · <a href="#featured-projects">Projects</a> · <a href="#personal-initiatives">Initiatives</a> · <a href="#toolbox">Toolbox</a> · <a href="#currently-exploring">Learning</a> · <a href="#github-activity">Activity</a> · <a href="#lets-connect">Contact</a>
 </p>
 
 <p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ## About me
 
-I work at the intersection of **geomatics, BIM, digital twins and infrastructure**. I enjoy connecting field measurements, 3D models and software to make technical information easier to explore and use.
+I'm **Ange-Morija KOUAMENAN**, an engineer with a background in **civil engineering and geomatics**, building connections between the physical world, digital models and operational data.
 
-- 🏗️ **Engineering background:** civil engineering and geomatics, with studies at École des Ponts ParisTech and ESTP Paris.
-- 🌍 **Experience:** surveying and project delivery, alongside tunnel lighting control systems, sensors and commissioning.
-- 🧩 **What I build:** tools for point cloud processing, IFC data exploration, 3D visualization and monitoring dashboards.
-- 🎯 **Direction:** bring digital twins and data into the operation and maintenance of buildings and infrastructure.
-- 📍 **Based in France** · French & English.
+My path brings together **surveying and project delivery**, **BIM and digital twins**, and **tunnel lighting control and commissioning**. I want to make engineering information useful throughout an asset's life — from field capture to operation and maintenance.
 
-> From physical reality to digital intelligence — one useful tool at a time.
+- 🎓 **Education:** École des Ponts ParisTech and ESTP Paris, with an international academic background including BME and UPM.
+- 🏗️ **Surveying & project delivery:** experience at QUARTA, with field surveys, spatial data and technical deliverables.
+- 💡 **Tunnel systems:** project experience at Comatelec Schréder involving ATS/TLA, Lumgates, sensors, bus diagnostics, lighting scenes and commissioning.
+- 🏢 **Professional direction:** building operation and maintenance, technical performance and digital tools for asset management.
+- 🧩 **Builder mindset:** Python tools, IFC workflows, point cloud analysis, web interfaces and monitoring prototypes.
+- 🌍 **Based in France**, with a strong interest in practical technology for African contexts.
+
+> My focus: connect field knowledge, engineering methods and software to solve practical problems.
+
+### Engineering interests
+
+| Domain | What interests me |
+| :--- | :--- |
+| Reality capture & geomatics | Field surveys, LiDAR, point cloud measurements and quality control |
+| BIM & digital twins | IFC interoperability, 3D visualization and operational information |
+| Tunnel lighting & control | Sensors, lighting scenes, bus communication and commissioning |
+| Building operation & maintenance | Technical audits, performance monitoring and maintenance workflows |
+| Software & applied AI | Engineering automation, reusable tools and assistants grounded in technical documents |
 
 <p align="center"><img src="assets/engineering-workspace.svg" width="100%" alt="Engineering workspace — capture reality, structure models, connect data" /></p>
 
@@ -67,6 +80,37 @@ I work at the intersection of **geomatics, BIM, digital twins and infrastructure
 </table>
 
 <p align="center"><a href="https://github.com/Ange-Morija?tab=repositories"><b>View all public repositories →</b></a></p>
+
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+
+## Personal initiatives
+
+Alongside my professional work, I develop independent projects at different stages of exploration and prototyping.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 Geodemy</h3>
+<p>My entrepreneurial initiative around geomatics, reality capture, Scan-to-BIM and technical training. My software work explores point cloud analysis tools and reusable interfaces for engineering applications.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Môya</h3>
+<p>An educational device concept for African learners, exploring offline assistance through local AI. Current interests include embedded hardware, accessible product design and learning without a permanent internet connection.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌿 Environmental monitoring</h3>
+<p>A pilot concept for Yamoussoukro combining environmental indicators, field sensors and dashboards. I also explore indoor air quality monitoring and practical ways to turn measurements into decisions.</p>
+</td>
+<td width="50%" valign="top">
+<h3>📚 Éclairer la ville intelligente</h3>
+<p>A personal technical book project in two volumes: public lighting design and connected lighting systems for smart cities. The aim is to connect engineering principles, workflows and documented sources.</p>
+</td>
+</tr>
+</table>
+
+<sub>These are personal initiatives; descriptions indicate intended scope, not released products or employer-backed projects.</sub>
 
 <p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
@@ -113,15 +157,19 @@ Tools I use across projects and experiments.
 - 🏙️ Digital twins for building and infrastructure operation.
 - 💡 Lighting control, photometry and connected urban systems.
 - ⚙️ Reusable web components and automation for engineering projects.
+- 🔌 Embedded development with ESP32 and Raspberry Pi, plus local infrastructure experiments.
+- 📊 Performance indicators and dashboards for building operation and maintenance.
 
 <details>
 <summary><b>🇫🇷 En quelques mots</b></summary>
 
-Ingénieur de formation en génie civil et géomatique, je développe des outils à la croisée du **BIM, des nuages de points, des jumeaux numériques et des infrastructures intelligentes**.
+Ingénieur de formation en **génie civil et géomatique**, mon parcours relie les relevés de terrain et la conduite de projets chez **QUARTA**, les **jumeaux numériques et le BIM**, puis les **systèmes de commande d'éclairage de tunnels chez Comatelec Schréder** : ATS/TLA, Lumgates, capteurs, diagnostics bus et mise en service.
 
-Mon parcours associe relevés et conduite de projets, puis systèmes de commande d'éclairage de tunnels, capteurs et mise en service. Je m'intéresse particulièrement à l'utilisation des données pour améliorer l'exploitation et la maintenance des bâtiments et infrastructures.
+Je souhaite rapprocher ces compétences des enjeux de **performance technique, d'exploitation et de maintenance des bâtiments et infrastructures**.
 
-Sur ce profil, je partage mes projets, mes expérimentations et ma progression technique.
+En parallèle, je développe mes initiatives personnelles : **Geodemy**, des outils pour les nuages de points et l'IFC, le concept éducatif **Môya**, des expérimentations de suivi environnemental et un projet de livre technique intitulé **Éclairer la ville intelligente**.
+
+Ce profil présente mes réalisations publiques, mes prototypes et mes sujets d'apprentissage. Mes projets personnels sont indépendants de mes employeurs.
 
 </details>
 
