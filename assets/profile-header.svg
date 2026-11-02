@@ -1,11 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Ange-Morija KOUAMENAN</title><desc id="desc">Geomatics, BIM and Digital Twins. Connecting the physical world to digital intelligence.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1525"/><stop offset="1" stop-color="#182d44"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8caac4" stroke-opacity=".09"/></pattern><linearGradient id="gold"><stop stop-color="#DAAB3A"/><stop offset="1" stop-color="#EEE6D8"/></linearGradient></defs>
-<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
-<path d="M850 250v-90l80-45 80 45v90l-80 45z M850 160l80 45 80-45 M930 205v90 M1010 250l70-40v-90l-80-45-70 40" fill="none" stroke="#DAAB3A" stroke-width="2" opacity=".7"/>
-<g fill="#DAAB3A"><circle cx="850" cy="160" r="5"/><circle cx="930" cy="205" r="5"/><circle cx="1010" cy="250" r="5"/><circle cx="1080" cy="120" r="5"/></g>
-<rect x="56" y="55" width="44" height="4" rx="2" fill="#DAAB3A"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="56" y="100" fill="#DAAB3A" font-size="14" letter-spacing="4">ENGINEERING · DATA · BUILT ENVIRONMENT</text>
-<text x="53" y="166" fill="#f4f1eb" font-size="45" font-weight="700">Ange-Morija</text><text x="55" y="212" fill="#f4f1eb" font-size="36" font-weight="300" letter-spacing="5">KOUAMENAN</text>
-<text x="56" y="259" fill="#b8cada" font-size="20">Geomatics · BIM · Digital Twins · Smart Infrastructure</text>
-<text x="56" y="313" fill="#DAAB3A" font-size="14" letter-spacing="2">FROM PHYSICAL REALITY TO DIGITAL INTELLIGENCE</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+<title id="t">Ange-Morija KOUAMENAN — Digital engineering</title><desc id="d">Animated cyan and violet cyberpunk city, orbital digital twin and engineering profile.</desc>
+<defs>
+<linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#060914"/><stop offset="1" stop-color="#11132c"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset=".6" stop-color="#8b5cf6"/><stop offset="1" stop-color="#e879f9"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#22d3ee" stroke-opacity=".08"/></pattern>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".19"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<style>@media (prefers-reduced-motion:reduce){.orbit,.pulse,.scan,.data{display:none}}</style>
+</defs>
+<rect width="1200" height="440" rx="18" fill="url(#bg)"/><rect width="1200" height="440" rx="18" fill="url(#grid)"/>
+<circle cx="955" cy="205" r="230" fill="url(#halo)"/>
+<path d="M26 70V26h90 M1084 26h90v44 M26 370v44h90 M1084 414h90v-44" fill="none" stroke="url(#neon)" stroke-width="2"/>
+<path d="M40 380H1160" stroke="#29334d"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="58" y="67" fill="#22d3ee" font-size="12" letter-spacing="3">DIGITAL ENGINEERING / PHYSICAL WORLD</text>
+<text x="56" y="147" fill="#f1f5ff" font-size="52" font-weight="700" letter-spacing="-1">Ange-Morija</text>
+<text x="58" y="204" fill="#f1f5ff" font-size="40" font-weight="300" letter-spacing="7">KOUAMENAN</text>
+<rect x="58" y="229" width="72" height="3" fill="url(#neon)"/>
+<text x="58" y="272" fill="#c1cbe0" font-size="20">Geomatics · BIM · Digital Twins</text>
+<text x="58" y="307" fill="#8b9ab8" font-size="17">Building tools for smarter infrastructure.</text>
+<text x="58" y="354" fill="#22d3ee" font-family="monospace" font-size="13" letter-spacing="1">REALITY → DATA → MODELS → INSIGHT</text>
+<text x="58" y="405" fill="#8b9ab8" font-family="monospace" font-size="11" letter-spacing="2">FRANCE / ENGINEERING / CODE</text>
+<text x="937" y="405" fill="#8b9ab8" font-family="monospace" font-size="11">BUILD · EXPLORE · ITERATE</text></g>
+<g transform="translate(954 205)">
+<circle r="141" fill="none" stroke="#222d48"/>
+<circle r="112" fill="none" stroke="#22d3ee" stroke-opacity=".22" stroke-dasharray="3 10"/>
+<g class="orbit"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/><circle r="141" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="90 190 30 576"/><circle cx="141" r="4" fill="#22d3ee" filter="url(#glow)"/></g>
+<g class="orbit"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/><circle r="164" fill="none" stroke="#8b5cf6" stroke-opacity=".5" stroke-dasharray="35 480"/></g>
+<g fill="#111a30" stroke="url(#neon)" stroke-width="1.6"><path d="M-69-48 0-88 69-48V42L0 83-69 42Z"/><path d="M-69-48 0-7 69-48 M0-7v90 M-69-3 0 37 69-3 M-35-68v90 M35-68v90"/></g>
+<path class="scan" d="M-92-80H92" stroke="#22d3ee" opacity=".55" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 165;0 0" dur="7s" repeatCount="indefinite"/></path>
+<g fill="#22d3ee" filter="url(#glow)"><circle cy="-88" r="3"/><circle cx="-69" cy="42" r="3"/><circle cx="69" cy="42" r="3"/><circle cy="83" r="3"/></g>
+<circle class="pulse" r="95" fill="none" stroke="#22d3ee"><animate attributeName="r" values="95;130" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;0" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M690 335h50l20-20h43 M700 87h63l18 18h45" fill="none" stroke="#34415f"/>
+<circle class="data" r="3" fill="#e879f9"><animateMotion path="M690 335h50l20-20h43" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
