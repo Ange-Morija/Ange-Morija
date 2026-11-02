@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ange-Morija?tab=followers"><img src="https://img.shields.io/github/followers/Ange-Morija?style=flat&amp;logo=github&amp;label=Followers&amp;color=DAAB3A&amp;labelColor=101827" alt="GitHub followers" /></a>
-  <a href="https://github.com/Ange-Morija?tab=repositories"><img src="https://img.shields.io/badge/Explore-my_repositories-DAAB3A?style=flat&amp;logo=github&amp;labelColor=101827" alt="Explore my repositories" /></a>
+  <a href="https://github.com/Ange-Morija?tab=followers"><img src="https://img.shields.io/github/followers/Ange-Morija?style=flat&amp;logo=github&amp;label=Followers&amp;color=22D3EE&amp;labelColor=090E1D" alt="GitHub followers" /></a>
+  <a href="https://github.com/Ange-Morija?tab=repositories"><img src="https://img.shields.io/badge/Explore-my_repositories-22D3EE?style=flat&amp;logo=github&amp;labelColor=090E1D" alt="Explore my repositories" /></a>
 </p>
 
 <h1 align="center">Hi, I'm Ange-Morija 👋</h1>
 <p align="center"><b>Civil engineering &amp; geomatics background · Building digital tools for the built environment</b></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1600&amp;color=DAAB3A&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Turning+point+clouds+into+useful+data;Connecting+BIM+models+and+real-world+measurements;Exploring+smarter+infrastructure+through+code" alt="Point clouds, BIM and connected infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Turning+point+clouds+into+useful+data;Connecting+BIM+models+and+real-world+measurements;Exploring+smarter+infrastructure+through+code" alt="Point clouds, BIM and connected infrastructure" />
 </p>
 
 <p align="center">
   <a href="#about-me">About</a> · <a href="#featured-projects">Projects</a> · <a href="#toolbox">Toolbox</a> · <a href="#currently-exploring">Learning</a> · <a href="#github-activity">Activity</a> · <a href="#lets-connect">Contact</a>
 </p>
 
----
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ## About me
 
@@ -31,6 +31,8 @@ I work at the intersection of **geomatics, BIM, digital twins and infrastructure
 
 > From physical reality to digital intelligence — one useful tool at a time.
 
+<p align="center"><img src="assets/engineering-workspace.svg" width="100%" alt="Engineering workspace — capture reality, structure models, connect data" /></p>
+
 ## Featured projects
 
 <table>
@@ -38,13 +40,13 @@ I work at the intersection of **geomatics, BIM, digital twins and infrastructure
 <td width="50%" valign="top">
 <h3>🏢 BIM Viewer</h3>
 <p>Explore building models in a browser with Autodesk Platform Services, custom viewer extensions and access to model information.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-b89742?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></p>
+<p><img src="https://img.shields.io/badge/JavaScript-6455B8?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></p>
 <a href="https://github.com/Ange-Morija/3d_model_viewer"><b>Explore the repository →</b></a>
 </td>
 <td width="50%" valign="top">
 <h3>📐 bimpy</h3>
 <p>Python CLI tools to inspect IFC files, extract properties, export spatial trees, process batches and merge models.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/IFC%20%C2%B7%20BIM-58677D?style=for-the-badge" alt="IFC · BIM" /></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/IFC%20%C2%B7%20BIM-293659?style=for-the-badge" alt="IFC · BIM" /></p>
 <a href="https://github.com/Ange-Morija/bimpy"><b>Explore the repository →</b></a>
 </td>
 </tr>
@@ -52,7 +54,7 @@ I work at the intersection of **geomatics, BIM, digital twins and infrastructure
 <td width="50%" valign="top">
 <h3>🚘 LiDAR Vehicle Profiles</h3>
 <p>Process LiDAR scans into 3D point clouds and measure vehicle dimensions in a simulated highway detection workflow.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LiDAR%20%C2%B7%203D-58677D?style=for-the-badge" alt="LiDAR · 3D" /></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LiDAR%20%C2%B7%203D-293659?style=for-the-badge" alt="LiDAR · 3D" /></p>
 <a href="https://github.com/Ange-Morija/Profile_sanner"><b>Explore the repository →</b></a>
 </td>
 <td width="50%" valign="top">
@@ -65,6 +67,8 @@ I work at the intersection of **geomatics, BIM, digital twins and infrastructure
 </table>
 
 <p align="center"><a href="https://github.com/Ange-Morija?tab=repositories"><b>View all public repositories →</b></a></p>
+
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ## Toolbox
 
@@ -101,6 +105,8 @@ Tools I use across projects and experiments.
 | Connected prototypes | ESP32 · MicroPython · sensor data · dashboards |
 | Cloud platforms | AWS · Azure |
 
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+
 ## Currently exploring
 
 - 🧠 Applied AI, retrieval-augmented generation and assistants for technical workflows.
@@ -119,28 +125,32 @@ Sur ce profil, je partage mes projets, mes expérimentations et ma progression t
 
 </details>
 
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+
 ## GitHub activity
 
 <p align="center">
   <a href="https://github.com/Ange-Morija?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ange-Morija&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101827&amp;title_color=DAAB3A&amp;icon_color=DAAB3A&amp;text_color=DEE5ED" alt="Public GitHub activity statistics for Ange-Morija" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ange-Morija&amp;show_icons=true&amp;hide_border=true&amp;bg_color=090E1D&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=C4CEE2" alt="Public GitHub activity statistics for Ange-Morija" />
   </a>
   <a href="https://github.com/Ange-Morija?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange-Morija&amp;layout=compact&amp;hide_border=true&amp;bg_color=101827&amp;title_color=DAAB3A&amp;text_color=DEE5ED" alt="Language distribution in public repositories" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange-Morija&amp;layout=compact&amp;hide_border=true&amp;bg_color=090E1D&amp;title_color=22D3EE&amp;text_color=C4CEE2" alt="Language distribution in public repositories" />
   </a>
 </p>
 
 <sub>Statistics cards are provided by an external service and may be temporarily unavailable. Language distribution reflects repository contents.</sub>
+
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ## Let's connect
 
 Interested in **BIM, geomatics, digital twins or infrastructure tools**? Let's exchange ideas and build useful things.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kouamenan-ange-morija/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&amp;labelColor=101827" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Ange-Morija"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-DAAB3A?style=for-the-badge&amp;logo=github&amp;labelColor=101827" alt="Explore my GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/kouamenan-ange-morija/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&amp;labelColor=090E1D" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Ange-Morija"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-22D3EE?style=for-the-badge&amp;logo=github&amp;labelColor=090E1D" alt="Explore my GitHub profile" /></a>
 </p>
 
----
+<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><b>Measure reality. Structure information. Build useful tools.</b><br /><sub>Thanks for visiting — explore a project, open an issue or contribute an improvement.</sub></p>
