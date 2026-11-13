@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="t d">
+<title id="t">Career path</title>
+<desc id="d">Timeline: civil engineering at ESTP Paris, structural monitoring at SOCOTEC Monitoring, surveying and 3D at QUARTA, smart lighting and tunnels at Comatelec Schréder, building operations performance at Artelia, towards Smart City Solution Architect.</desc>
+<defs>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#14B8A6"/><stop offset="1" stop-color="#DAAB3A"/></linearGradient>
+<style>
+.f{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.now{animation:p 2.4s ease-in-out infinite}
+@keyframes p{0%,100%{r:11;opacity:1}50%{r:16;opacity:.35}}
+@media (prefers-reduced-motion:reduce){.now{animation:none}}
+</style>
+</defs>
+<rect width="1200" height="270" rx="18" fill="#0B1A24"/>
+<text x="40" y="44" class="f" fill="#5EEAD4" font-size="14" font-weight="600" letter-spacing="3">THE PATH SO FAR</text>
+<path d="M90 130H1010" stroke="url(#line)" stroke-width="3"/>
+<path d="M1010 130H1120" stroke="#DAAB3A" stroke-width="3" stroke-dasharray="6 8"/>
+<g class="f" text-anchor="middle">
+<g><circle cx="110" cy="130" r="9" fill="#0B1A24" stroke="#14B8A6" stroke-width="3"/>
+<text x="110" y="100" fill="#94A3B8" font-size="13">Education</text>
+<text x="110" y="168" fill="#F1F5F9" font-size="16" font-weight="600">Civil engineering</text>
+<text x="110" y="190" fill="#94A3B8" font-size="13">ESTP Paris</text>
+<text x="110" y="208" fill="#94A3B8" font-size="13">+ Digital twins, École des Ponts</text></g>
+<g><circle cx="320" cy="130" r="9" fill="#0B1A24" stroke="#14B8A6" stroke-width="3"/>
+<text x="320" y="100" fill="#94A3B8" font-size="13">2021 – 2022</text>
+<text x="320" y="168" fill="#F1F5F9" font-size="16" font-weight="600">Structural monitoring</text>
+<text x="320" y="190" fill="#94A3B8" font-size="13">SOCOTEC Monitoring</text></g>
+<g><circle cx="530" cy="130" r="9" fill="#0B1A24" stroke="#2DD4BF" stroke-width="3"/>
+<text x="530" y="100" fill="#94A3B8" font-size="13">2022 – 2026</text>
+<text x="530" y="168" fill="#F1F5F9" font-size="16" font-weight="600">Surveying, 3D &amp; BIM</text>
+<text x="530" y="190" fill="#94A3B8" font-size="13">QUARTA · Groupe Hamel</text></g>
+<g><circle cx="740" cy="130" r="9" fill="#0B1A24" stroke="#C9B04A" stroke-width="3"/>
+<text x="740" y="100" fill="#94A3B8" font-size="13">2026</text>
+<text x="740" y="168" fill="#F1F5F9" font-size="16" font-weight="600">Smart lighting &amp; tunnels</text>
+<text x="740" y="190" fill="#94A3B8" font-size="13">Comatelec Schréder</text></g>
+<g><circle class="now" cx="950" cy="130" r="11" fill="#DAAB3A"/>
+<text x="950" y="100" fill="#F5D58A" font-size="13" font-weight="600">Nov 2026 →</text>
+<text x="950" y="168" fill="#F1F5F9" font-size="16" font-weight="600">Building O&amp;M performance</text>
+<text x="950" y="190" fill="#94A3B8" font-size="13">Artelia</text></g>
+<g><path d="M1120 112v36M1120 112l18 7-18 7" fill="#DAAB3A" stroke="#DAAB3A" stroke-width="2"/>
+<text x="1110" y="190" fill="#F5D58A" font-size="13" font-weight="600">Goal</text>
+<text x="1110" y="208" fill="#F5D58A" font-size="13">Smart City</text>
+<text x="1110" y="226" fill="#F5D58A" font-size="13">Solution Architect</text></g>
+</g>
+</svg>

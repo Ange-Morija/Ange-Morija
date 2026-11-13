@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="t d">
+<title id="t">How I work: capture, model, connect, operate, improve</title>
+<desc id="d">Five-step pipeline from reality capture to model, connected data, operations and continuous improvement.</desc>
+<defs>
+<style>
+.f{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.flow{stroke-dasharray:4 8;animation:fl 2.5s linear infinite}
+@keyframes fl{to{stroke-dashoffset:-48}}
+@media (prefers-reduced-motion:reduce){.flow{animation:none}}
+</style>
+</defs>
+<rect width="1200" height="210" rx="18" fill="#0B1A24"/>
+<g fill="none" stroke-width="2">
+<path class="flow" d="M222 105H262M452 105H492M682 105H722M912 105H952" stroke="#DAAB3A"/>
+</g>
+<g class="f" text-anchor="middle">
+<!-- 1 Capture -->
+<rect x="32" y="40" width="190" height="130" rx="14" fill="#0F2A35" stroke="#14B8A6" stroke-opacity=".5"/>
+<g fill="#5EEAD4"><circle cx="105" cy="78" r="2"/><circle cx="117" cy="72" r="2"/><circle cx="129" cy="80" r="2"/><circle cx="141" cy="74" r="2"/><circle cx="111" cy="88" r="2"/><circle cx="123" cy="92" r="2"/><circle cx="135" cy="88" r="2"/><circle cx="147" cy="86" r="2"/></g>
+<text x="127" y="128" fill="#F1F5F9" font-size="17" font-weight="600">Capture</text>
+<text x="127" y="150" fill="#94A3B8" font-size="12.5">Survey · LiDAR · sensors</text>
+<!-- 2 Model -->
+<rect x="262" y="40" width="190" height="130" rx="14" fill="#0F2A35" stroke="#14B8A6" stroke-opacity=".5"/>
+<path d="M337 92V70l20-8 20 8v22l-20 8z M337 70l20 8 20-8 M357 78v22" fill="none" stroke="#5EEAD4" stroke-width="1.6"/>
+<text x="357" y="128" fill="#F1F5F9" font-size="17" font-weight="600">Model</text>
+<text x="357" y="150" fill="#94A3B8" font-size="12.5">BIM · IFC · digital twin</text>
+<!-- 3 Connect -->
+<rect x="492" y="40" width="190" height="130" rx="14" fill="#0F2A35" stroke="#14B8A6" stroke-opacity=".5"/>
+<g stroke="#5EEAD4" stroke-width="1.6" fill="none"><circle cx="587" cy="80" r="6"/><circle cx="565" cy="70" r="4"/><circle cx="609" cy="70" r="4"/><circle cx="571" cy="96" r="4"/><circle cx="603" cy="96" r="4"/><path d="M582 77l-13-5M592 77l13-5M583 85l-9 8M591 85l9 8"/></g>
+<text x="587" y="128" fill="#F1F5F9" font-size="17" font-weight="600">Connect</text>
+<text x="587" y="150" fill="#94A3B8" font-size="12.5">IoT · BUS · MQTT · APIs</text>
+<!-- 4 Operate -->
+<rect x="722" y="40" width="190" height="130" rx="14" fill="#2A230F" stroke="#DAAB3A" stroke-opacity=".6"/>
+<g fill="none" stroke="#F5C35B" stroke-width="1.6"><rect x="795" y="64" width="44" height="32" rx="4"/><path d="M801 88l9-9 8 6 15-14"/></g>
+<text x="817" y="128" fill="#F1F5F9" font-size="17" font-weight="600">Operate</text>
+<text x="817" y="150" fill="#94A3B8" font-size="12.5">GTB · CMMS · dashboards</text>
+<!-- 5 Improve -->
+<rect x="952" y="40" width="216" height="130" rx="14" fill="#2A230F" stroke="#DAAB3A" stroke-opacity=".6"/>
+<g fill="none" stroke="#F5C35B" stroke-width="1.6"><path d="M1046 92a16 16 0 1 1 22 0"/><path d="M1068 92l1-9 8 3"/></g>
+<text x="1060" y="128" fill="#F1F5F9" font-size="17" font-weight="600">Improve</text>
+<text x="1060" y="150" fill="#94A3B8" font-size="12.5">KPIs · energy · M&amp;V · AI</text>
+</g>
+</svg>
