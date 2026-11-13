@@ -1,204 +1,204 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Ange-Morija KOUAMENAN — Geomatics, BIM, Digital Twins and Smart Infrastructure" />
+  <img src="assets/header.svg" width="100%" alt="Ange-Morija KOUAMENAN — Geomatics, smart infrastructure and building operations" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ange-Morija?tab=followers"><img src="https://img.shields.io/github/followers/Ange-Morija?style=flat&amp;logo=github&amp;label=Followers&amp;color=22D3EE&amp;labelColor=090E1D" alt="GitHub followers" /></a>
-  <a href="https://github.com/Ange-Morija?tab=repositories"><img src="https://img.shields.io/badge/Explore-my_repositories-22D3EE?style=flat&amp;logo=github&amp;labelColor=090E1D" alt="Explore my repositories" /></a>
-</p>
-
-<h1 align="center">Hi, I'm Ange-Morija 👋</h1>
-<p align="center"><b>Civil engineering &amp; geomatics background · Building digital tools for the built environment</b></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Turning+point+clouds+into+useful+data;Connecting+BIM+models+and+real-world+measurements;Exploring+smarter+infrastructure+through+code" alt="Point clouds, BIM and connected infrastructure" />
+  <a href="https://www.linkedin.com/in/kouamenan-ange-morija/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0B1A24" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ange-Morija?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-14B8A6?style=flat&logo=github&labelColor=0B1A24" alt="Repositories" /></a>
+  <a href="https://github.com/Ange-Morija?tab=followers"><img src="https://img.shields.io/github/followers/Ange-Morija?style=flat&logo=github&label=Followers&color=DAAB3A&labelColor=0B1A24" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Languages-FR%20%C2%B7%20EN-94A3B8?style=flat&labelColor=0B1A24" alt="French and English" />
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> · <a href="#featured-projects">Projects</a> · <a href="#personal-initiatives">Initiatives</a> · <a href="#toolbox">Toolbox</a> · <a href="#currently-exploring">Learning</a> · <a href="#github-activity">Activity</a> · <a href="#lets-connect">Contact</a>
+  <a href="#-about">About</a> ·
+  <a href="#-what-i-do">What I do</a> ·
+  <a href="#-projects">Projects</a> ·
+  <a href="#-independent-initiatives">Initiatives</a> ·
+  <a href="#-home-lab">Lab</a> ·
+  <a href="#-toolbox">Toolbox</a> ·
+  <a href="#-now-learning">Learning</a> ·
+  <a href="#-en-français">Français</a>
 </p>
 
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## About me
+## 👋 About
 
-I'm **Ange-Morija KOUAMENAN**, an engineer with a background in **civil engineering and geomatics**, building connections between the physical world, digital models and operational data.
+I'm **Ange-Morija**, a civil engineer turned **geomatics, smart‑infrastructure and building‑operations** engineer. I like the moment when a measurement taken in the field becomes a model, then a data stream, then a decision someone can act on.
 
-My path brings together **surveying and project delivery**, **BIM and digital twins**, and **tunnel lighting control and commissioning**. I want to make engineering information useful throughout an asset's life — from field capture to operation and maintenance.
+- 🏢 **Now** — joining **Artelia** (Nov 2026) as an *Operations & Maintenance Performance and Intelligence Engineer* for buildings: technical audits, maintenance contracts, performance monitoring in operation.
+- 💡 **Before** — Smart City project manager for **road tunnels at Comatelec Schréder**: ATS/TLA lighting control, Lumgate BUS networks, luminance meters, lighting scenes and commissioning.
+- 📐 **Roots** — surveying engineer and business manager at **QUARTA**, structural monitoring at **SOCOTEC Monitoring**: total station, GNSS, laser scanning, point clouds, 2D plans and BIM models.
+- 🎓 **Education** — civil engineering at **ESTP Paris**, digital twins at **École des Ponts ParisTech**.
+- 🌍 **Based in France**, Ivorian, with a strong focus on practical technology for **Côte d'Ivoire and West Africa**.
+- 🎯 **Next** — growing into a **Smart City Solution Architect**.
 
-- 🎓 **Education:** École des Ponts ParisTech and ESTP Paris, with an international academic background including BME and UPM.
-- 🏗️ **Surveying & project delivery:** experience at QUARTA, with field surveys, spatial data and technical deliverables.
-- 💡 **Tunnel systems:** project experience at Comatelec Schréder involving ATS/TLA, Lumgates, sensors, bus diagnostics, lighting scenes and commissioning.
-- 🏢 **Professional direction:** building operation and maintenance, technical performance and digital tools for asset management.
-- 🧩 **Builder mindset:** Python tools, IFC workflows, point cloud analysis, web interfaces and monitoring prototypes.
-- 🌍 **Based in France**, with a strong interest in practical technology for African contexts.
+<p align="center"><img src="assets/journey.svg" width="100%" alt="Career path from civil engineering to building operations, towards Smart City Solution Architect" /></p>
 
-> My focus: connect field knowledge, engineering methods and software to solve practical problems.
+## 🧭 What I do
 
-### Engineering interests
+<p align="center"><img src="assets/pipeline.svg" width="100%" alt="Capture, model, connect, operate, improve" /></p>
 
-| Domain | What interests me |
+| Domain | In practice |
 | :--- | :--- |
-| Reality capture & geomatics | Field surveys, LiDAR, point cloud measurements and quality control |
-| BIM & digital twins | IFC interoperability, 3D visualization and operational information |
-| Tunnel lighting & control | Sensors, lighting scenes, bus communication and commissioning |
-| Building operation & maintenance | Technical audits, performance monitoring and maintenance workflows |
-| Software & applied AI | Engineering automation, reusable tools and assistants grounded in technical documents |
+| **Reality capture & geomatics** | Total station, GNSS, LiDAR / 3D scanning, photogrammetry, point cloud QA, scan‑to‑BIM |
+| **BIM & digital twins** | Revit, IFC interoperability, model checking, linking models with live sensor data |
+| **Tunnel & smart lighting** | ATS/TLA programming, BUS scans, L20 luminance meters, threshold settings, inrush‑current measurement, commissioning |
+| **Building operations & maintenance** | Technical audits, tender documents, multi‑technical contracts, GTB/BMS, CMMS, KPIs and energy performance |
+| **Software & applied AI** | Python/JS tooling, dashboards, automation of engineering studies, LLM extraction from technical documents |
 
-<p align="center"><img src="assets/engineering-workspace.svg" width="100%" alt="Engineering workspace — capture reality, structure models, connect data" /></p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## Featured projects
+## 🛠 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏢 BIM Viewer</h3>
-<p>Explore building models in a browser with Autodesk Platform Services, custom viewer extensions and access to model information.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-6455B8?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></p>
-<a href="https://github.com/Ange-Morija/3d_model_viewer"><b>Explore the repository →</b></a>
+<h3>📐 bimpy</h3>
+<p>Python CLI to inspect IFC files, extract properties, export spatial trees, batch‑process and merge models.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/IFC-0F2A35?style=flat-square" alt="IFC" /></p>
+<a href="https://github.com/Ange-Morija/bimpy"><b>Repository →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>📐 bimpy</h3>
-<p>Python CLI tools to inspect IFC files, extract properties, export spatial trees, process batches and merge models.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/IFC%20%C2%B7%20BIM-293659?style=for-the-badge" alt="IFC · BIM" /></p>
-<a href="https://github.com/Ange-Morija/bimpy"><b>Explore the repository →</b></a>
+<h3>🏢 BIM Viewer</h3>
+<p>Browser‑based building model viewer on Autodesk Platform Services, with custom extensions and model data access.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></p>
+<a href="https://github.com/Ange-Morija/3d_model_viewer"><b>Repository →</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🚘 LiDAR Vehicle Profiles</h3>
-<p>Process LiDAR scans into 3D point clouds and measure vehicle dimensions in a simulated highway detection workflow.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LiDAR%20%C2%B7%203D-293659?style=for-the-badge" alt="LiDAR · 3D" /></p>
-<a href="https://github.com/Ange-Morija/Profile_sanner"><b>Explore the repository →</b></a>
+<p>Turns LiDAR scans into 3D point clouds and measures vehicle dimensions in a simulated highway detection workflow.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LiDAR-0F2A35?style=flat-square" alt="LiDAR" /></p>
+<a href="https://github.com/Ange-Morija/Profile_sanner"><b>Repository →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>🌡️ Temperature &amp; Humidity Monitoring</h3>
-<p>An ESP32 sensor prototype connecting temperature and humidity measurements to InfluxDB and a Flask/Grafana dashboard.</p>
-<p><img src="https://img.shields.io/badge/ESP32-A32D36?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Grafana-D96A20?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana" /></p>
-<a href="https://github.com/Ange-Morija/Temp_Humidity_Monitoring"><b>Explore the repository →</b></a>
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/Ange-Morija?tab=repositories"><b>View all public repositories →</b></a></p>
-
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
-
-## Personal initiatives
-
-Alongside my professional work, I develop independent projects at different stages of exploration and prototyping.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🌐 Geodemy</h3>
-<p>My entrepreneurial initiative around geomatics, reality capture, Scan-to-BIM and technical training. My software work explores point cloud analysis tools and reusable interfaces for engineering applications.</p>
-</td>
-<td width="50%" valign="top">
-<h3>🎓 Môya</h3>
-<p>An educational device concept for African learners, exploring offline assistance through local AI. Current interests include embedded hardware, accessible product design and learning without a permanent internet connection.</p>
+<h3>🌡️ Temperature & Humidity Monitoring</h3>
+<p>ESP32 sensor node streaming to InfluxDB, visualised through a Flask / Grafana dashboard.</p>
+<p><img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /></p>
+<a href="https://github.com/Ange-Morija/Temp_Humidity_Monitoring"><b>Repository →</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🌿 Environmental monitoring</h3>
-<p>A pilot concept for Yamoussoukro combining environmental indicators, field sensors and dashboards. I also explore indoor air quality monitoring and practical ways to turn measurements into decisions.</p>
+<h3>☁️ Point Cloud Analysis Toolkit <sub><code>in progress</code></sub></h3>
+<p>Web tool for surveyors and BIM engineers: import LAS/LAZ/E57/PLY, clean, segment, measure, cut sections, compare scans and export to IFC or CSV.</p>
+<p><img src="https://img.shields.io/badge/Point_clouds-0F2A35?style=flat-square" alt="Point clouds" /> <img src="https://img.shields.io/badge/Web-0F2A35?style=flat-square" alt="Web" /></p>
 </td>
 <td width="50%" valign="top">
-<h3>📚 Éclairer la ville intelligente</h3>
-<p>A personal technical book project in two volumes: public lighting design and connected lighting systems for smart cities. The aim is to connect engineering principles, workflows and documented sources.</p>
+<h3>🎓 Môya — website</h3>
+<p>Landing site for Môya, a pocket learning assistant concept (see below).</p>
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></p>
+<a href="https://github.com/Ange-Morija/moya"><b>Repository →</b></a>
 </td>
 </tr>
 </table>
 
-<sub>These are personal initiatives; descriptions indicate intended scope, not released products or employer-backed projects.</sub>
+<p align="center"><a href="https://github.com/Ange-Morija?tab=repositories"><b>All public repositories →</b></a></p>
 
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## Toolbox
+## 🚀 Independent initiatives
 
-Tools I use across projects and experiments.
+| | Initiative | What it is | Stage |
+| :-: | :--- | :--- | :--- |
+| 🌐 | **Geodemy** | My engineering studio: point cloud processing, plans, scan‑to‑BIM, flatness control, BIM/IFC and training — delivered remotely | Active |
+| 🎓 | **Môya** | Offline, on‑device AI learning assistant for secondary‑school students in Africa — helps learners *reason*, not copy | Prototyping |
+| 🌿 | **Mon Pays Vert** | Environmental observatory pilot in Yamoussoukro: NDVI, water stress, LoRaWAN field sensors and a public dashboard | Concept / pilot |
+| 📚 | **Éclairer la ville intelligente** | Two‑volume technical book for engineers on public lighting and running a city through light | Writing |
+| 🏙️ | **#SmartCity series** | Editorial series on African smart cities, co‑written with peers | Ongoing |
+
+<sub>Personal projects, independent from my employers. "Stage" reflects intended scope, not released products.</sub>
+
+## 🧪 Home lab
+
+Where I test things before they reach a project.
+
+- **Lighting & IoT test bench** — DALI / D4i, Zhaga, NEMA, KNX, Modbus, Zigbee, LoRa and MQTT on Raspberry Pi Pico, ESP32 and Arduino.
+- **Self‑hosted server** — HP tower on Ubuntu with Nextcloud AIO, plus a Raspberry Pi NAS with its own file dashboard.
+- **Indoor air quality** — CO₂, TVOC and particulate sensing with ventilation alerts.
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## 🧰 Toolbox
 
 **Code & web**
-
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-9C7818?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/HTML5-C84B27?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-246CB0?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-**Data, monitoring & deployment**
-
+**Data, IoT & infrastructure**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Grafana-D96A20?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana" />
-<img src="https://img.shields.io/badge/InfluxDB-286477?style=for-the-badge&amp;logo=influxdb&amp;logoColor=white" alt="InfluxDB" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-D84A31?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Engineering & spatial workflows**
+**Engineering & spatial**
 
 | Area | Tools & formats |
 | :--- | :--- |
-| BIM & infrastructure | Revit · AutoCAD · Navisworks · InfraWorks · IFC |
-| Point clouds & reality capture | CloudCompare · Register360 · Metashape · LiDAR |
-| Geospatial analysis | QGIS · ArcGIS · PostGIS |
-| Connected prototypes | ESP32 · MicroPython · sensor data · dashboards |
-| Cloud platforms | AWS · Azure |
+| BIM & CAD | Revit · AutoCAD + AutoLISP · Covadis · Navisworks · InfraWorks · IFC |
+| Reality capture | CloudCompare · Register360 · Metashape · Faro scans · LAS/LAZ/E57 |
+| GIS | QGIS · ArcGIS · PostGIS · Web GIS |
+| Lighting & control | ATS/TLA · Lumgate BUS · L20 luminance meters · DALI / D4i |
+| Cloud | AWS · Azure |
 
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## Currently exploring
+## 📈 Now learning
 
-- 🧠 Applied AI, retrieval-augmented generation and assistants for technical workflows.
-- 🏙️ Digital twins for building and infrastructure operation.
-- 💡 Lighting control, photometry and connected urban systems.
-- ⚙️ Reusable web components and automation for engineering projects.
-- 🔌 Embedded development with ESP32 and Raspberry Pi, plus local infrastructure experiments.
-- 📊 Performance indicators and dashboards for building operation and maintenance.
+- 🏢 **Building performance** — GTB/BMS integration, BACS decree, OPERAT / *Décret tertiaire*, IPMVP measurement & verification, OpenDSM.
+- 🤖 **Applied AI** — RAG, agents (LangGraph, MCP), evaluation; LLM extraction of tender documents with human validation.
+- 🧊 **3D & spatial AI** — point cloud segmentation and 3D deep learning.
+- 🌆 **Digital twins** for building and city operations, with a West‑African lens.
 
-<details>
-<summary><b>🇫🇷 En quelques mots</b></summary>
+## 📊 GitHub activity
 
-Ingénieur de formation en **génie civil et géomatique**, mon parcours relie les relevés de terrain et la conduite de projets chez **QUARTA**, les **jumeaux numériques et le BIM**, puis les **systèmes de commande d'éclairage de tunnels chez Comatelec Schréder** : ATS/TLA, Lumgates, capteurs, diagnostics bus et mise en service.
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ange-Morija&show_icons=true&hide_border=true&bg_color=0B1A24&title_color=5EEAD4&icon_color=DAAB3A&text_color=CBD5E1" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange-Morija&layout=compact&hide_border=true&bg_color=0B1A24&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
+</p>
 
-Je souhaite rapprocher ces compétences des enjeux de **performance technique, d'exploitation et de maintenance des bâtiments et infrastructures**.
+<sub>Cards served by an external service; they may occasionally fail to load.</sub>
 
-En parallèle, je développe mes initiatives personnelles : **Geodemy**, des outils pour les nuages de points et l'IFC, le concept éducatif **Môya**, des expérimentations de suivi environnemental et un projet de livre technique intitulé **Éclairer la ville intelligente**.
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-Ce profil présente mes réalisations publiques, mes prototypes et mes sujets d'apprentissage. Mes projets personnels sont indépendants de mes employeurs.
+## 🇫🇷 En français
+
+<details open>
+<summary><b>Le parcours en quelques lignes</b></summary>
+
+<br />
+
+Ingénieur **génie civil (ESTP Paris)**, formé aux **jumeaux numériques (École des Ponts)**, j'ai d'abord travaillé sur le terrain : **monitoring d'ouvrages chez SOCOTEC Monitoring**, puis **géomètre et chargé d'affaires chez QUARTA** (relevés, scan 3D, plans 2D, maquettes BIM).
+
+En 2026, j'ai été **chef de projets Smart City – Tunnels chez Comatelec Schréder** : automatismes ATS/TLA, réseaux BUS Lumgate, luminancemètres, scènes d'éclairage et mises en service.
+
+À partir de **novembre 2026**, je rejoins **Artelia** comme **ingénieur Performance & Intelligence d'Exploitation‑Maintenance** des bâtiments (AMO exploitation‑maintenance) : audits techniques, DCE/CCTP, marchés multitechniques, GTB, GMAO et suivi de la performance.
+
+En parallèle, je développe **Geodemy** (nuages de points, scan‑to‑BIM, IFC, formation), le projet éducatif **Môya**, l'observatoire environnemental **Mon Pays Vert** à Yamoussoukro et le livre **Éclairer la ville intelligente**.
+
+**Objectif : devenir Smart City Solution Architect** — avec la Côte d'Ivoire et l'Afrique de l'Ouest en ligne de mire.
 
 </details>
 
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
-
-## GitHub activity
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <a href="https://github.com/Ange-Morija?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ange-Morija&amp;show_icons=true&amp;hide_border=true&amp;bg_color=090E1D&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=C4CEE2" alt="Public GitHub activity statistics for Ange-Morija" />
-  </a>
-  <a href="https://github.com/Ange-Morija?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange-Morija&amp;layout=compact&amp;hide_border=true&amp;bg_color=090E1D&amp;title_color=22D3EE&amp;text_color=C4CEE2" alt="Language distribution in public repositories" />
-  </a>
+  <b>Measure reality · Structure information · Operate better</b><br />
+  <sub>Open to exchanges on BIM, geomatics, smart lighting, digital twins and building operations — find me on <a href="https://www.linkedin.com/in/kouamenan-ange-morija/">LinkedIn</a>.</sub>
 </p>
-
-<sub>Statistics cards are provided by an external service and may be temporarily unavailable. Language distribution reflects repository contents.</sub>
-
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
-
-## Let's connect
-
-Interested in **BIM, geomatics, digital twins or infrastructure tools**? Let's exchange ideas and build useful things.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kouamenan-ange-morija/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&amp;labelColor=090E1D" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Ange-Morija"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-22D3EE?style=for-the-badge&amp;logo=github&amp;labelColor=090E1D" alt="Explore my GitHub profile" /></a>
-</p>
-
-<p align="center"><img src="assets/neon-divider.svg" width="100%" alt="" /></p>
-
-<p align="center"><b>Measure reality. Structure information. Build useful tools.</b><br /><sub>Thanks for visiting — explore a project, open an issue or contribute an improvement.</sub></p>

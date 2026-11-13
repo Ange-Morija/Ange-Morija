@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Ange-Morija KOUAMENAN — Geomatics, smart infrastructure and building operations</title>
+<desc id="d">Night city skyline with a BIM wireframe building, a lit tunnel portal, street lights and a point cloud terrain, next to the profile title.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08131C"/><stop offset="1" stop-color="#0D2530"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#14B8A6"/><stop offset="1" stop-color="#DAAB3A"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy="0" r="1"><stop stop-color="#F5C35B" stop-opacity=".55"/><stop offset="1" stop-color="#F5C35B" stop-opacity="0"/></radialGradient>
+<radialGradient id="halo" cx=".5" cy=".5" r=".5"><stop stop-color="#14B8A6" stop-opacity=".16"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5EEAD4" stroke-opacity=".05"/></pattern>
+<style>
+.f{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.lamp{animation:flick 5s ease-in-out infinite}
+.lamp.b{animation-delay:1.3s}.lamp.c{animation-delay:2.6s}
+.scan{animation:scan 6s linear infinite}
+.pulse{animation:pulse 3s ease-in-out infinite}
+.dash{stroke-dasharray:6 10;animation:dash 4s linear infinite}
+@keyframes flick{0%,100%{opacity:.95}50%{opacity:.6}}
+@keyframes scan{0%{transform:translateX(0)}100%{transform:translateX(470px)}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-64}}
+@media (prefers-reduced-motion:reduce){.lamp,.scan,.pulse,.dash{animation:none}.scan{display:none}}
+</style>
+</defs>
+<rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+<circle cx="900" cy="230" r="260" fill="url(#halo)"/>
+
+<!-- Text block -->
+<g class="f">
+<text x="64" y="92" fill="#5EEAD4" font-size="15" letter-spacing="4" font-weight="600">ENGINEER · FRANCE ↔ CÔTE D'IVOIRE</text>
+<text x="62" y="150" fill="#F1F5F9" font-size="50" font-weight="700" letter-spacing="1">Ange-Morija</text>
+<text x="62" y="204" fill="#F1F5F9" font-size="50" font-weight="300" letter-spacing="6">KOUAMENAN</text>
+<rect x="64" y="226" width="120" height="4" rx="2" fill="url(#accent)"/>
+<text x="64" y="268" fill="#CBD5E1" font-size="20">Geomatics → Smart infrastructure → Building operations</text>
+<text x="64" y="298" fill="#94A3B8" font-size="16" font-style="italic">From field capture to operational intelligence.</text>
+<g font-size="13" font-weight="600">
+<rect x="64" y="328" width="122" height="30" rx="15" fill="#0F2E36" stroke="#14B8A6" stroke-opacity=".6"/><text x="125" y="348" text-anchor="middle" fill="#99F6E4">LiDAR · 3D</text>
+<rect x="196" y="328" width="106" height="30" rx="15" fill="#0F2E36" stroke="#14B8A6" stroke-opacity=".6"/><text x="249" y="348" text-anchor="middle" fill="#99F6E4">BIM · IFC</text>
+<rect x="312" y="328" width="128" height="30" rx="15" fill="#0F2E36" stroke="#14B8A6" stroke-opacity=".6"/><text x="376" y="348" text-anchor="middle" fill="#99F6E4">Digital twins</text>
+<rect x="450" y="328" width="130" height="30" rx="15" fill="#2B2410" stroke="#DAAB3A" stroke-opacity=".7"/><text x="515" y="348" text-anchor="middle" fill="#F5D58A">Smart lighting</text>
+</g>
+</g>
+
+<!-- Skyline -->
+<g transform="translate(660 0)">
+<!-- background towers -->
+<path d="M0 330V250h34v-30h26v110M70 330V205h40v125M120 330V265h30v65M420 330V230h36v100M466 330V262h40v68" fill="#0F2A35"/>
+<!-- BIM wireframe building -->
+<g fill="none" stroke="#5EEAD4" stroke-opacity=".85" stroke-width="1.4">
+<path d="M170 330V140l60-24 60 24v190"/>
+<path d="M230 116V330M170 140l60 22 60-22M230 162V330"/>
+<path d="M170 180l60 22 60-22M170 220l60 22 60-22M170 260l60 22 60-22M170 300l60 22 60-22" stroke-opacity=".45"/>
+</g>
+<g class="pulse" fill="#5EEAD4"><circle cx="230" cy="116" r="4"/><circle cx="170" cy="140" r="3"/><circle cx="290" cy="140" r="3"/></g>
+<!-- Tunnel portal -->
+<path d="M318 330v-50a46 46 0 0 1 92 0v50z" fill="#081218" stroke="#DAAB3A" stroke-width="2"/>
+<g fill="#F5C35B"><circle class="lamp" cx="336" cy="280" r="2.4"/><circle class="lamp b" cx="352" cy="264" r="2.4"/><circle class="lamp c" cx="364" cy="258" r="2.4"/><circle class="lamp" cx="376" cy="264" r="2.4"/><circle class="lamp b" cx="392" cy="280" r="2.4"/></g>
+<path d="M364 330l-10-50h20z" fill="#F5C35B" fill-opacity=".12"/>
+<!-- Street lights -->
+<g stroke="#94A3B8" stroke-width="2" fill="none"><path d="M40 330V262h14M130 330V262h14M480 330V262h-14"/></g>
+<g class="lamp"><path d="M54 262l-24 68h56z" fill="url(#glow)"/><circle cx="54" cy="263" r="3.5" fill="#F5C35B"/></g>
+<g class="lamp b"><path d="M144 262l-24 68h56z" fill="url(#glow)"/><circle cx="144" cy="263" r="3.5" fill="#F5C35B"/></g>
+<g class="lamp c"><path d="M466 262l-24 68h56z" fill="url(#glow)"/><circle cx="466" cy="263" r="3.5" fill="#F5C35B"/></g>
+<!-- Ground & point cloud -->
+<path d="M0 330H520" stroke="url(#accent)" stroke-width="2"/>
+<g fill="#5EEAD4" fill-opacity=".55">
+<circle cx="12" cy="344" r="1.4"/><circle cx="36" cy="350" r="1.2"/><circle cx="58" cy="342" r="1.4"/><circle cx="84" cy="356" r="1.1"/><circle cx="108" cy="346" r="1.4"/><circle cx="134" cy="352" r="1.2"/><circle cx="160" cy="341" r="1.3"/><circle cx="186" cy="358" r="1.1"/><circle cx="210" cy="347" r="1.4"/><circle cx="236" cy="353" r="1.2"/><circle cx="262" cy="343" r="1.4"/><circle cx="288" cy="357" r="1.1"/><circle cx="312" cy="345" r="1.3"/><circle cx="338" cy="351" r="1.2"/><circle cx="364" cy="342" r="1.4"/><circle cx="390" cy="356" r="1.1"/><circle cx="416" cy="346" r="1.4"/><circle cx="442" cy="352" r="1.2"/><circle cx="468" cy="341" r="1.3"/><circle cx="494" cy="357" r="1.1"/>
+<circle cx="24" cy="364" r="1"/><circle cx="72" cy="368" r="1"/><circle cx="122" cy="366" r="1"/><circle cx="172" cy="370" r="1"/><circle cx="222" cy="365" r="1"/><circle cx="274" cy="369" r="1"/><circle cx="326" cy="366" r="1"/><circle cx="378" cy="370" r="1"/><circle cx="430" cy="365" r="1"/><circle cx="482" cy="369" r="1"/>
+</g>
+<rect class="scan" x="0" y="336" width="40" height="40" fill="#5EEAD4" fill-opacity=".10"/>
+<!-- Data link -->
+<path class="dash" d="M230 116C310 70 380 130 364 230" fill="none" stroke="#DAAB3A" stroke-opacity=".7" stroke-width="1.5"/>
+<circle class="pulse" cx="364" cy="230" r="5" fill="#DAAB3A"/>
+</g>
+</svg>
